@@ -1,0 +1,31 @@
+{
+  "name": "emojiku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-academy-challenges/emojiku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-academy-challenges/emojiku/issues"
+  },
+  "homepage": "https://github.com/dev-academy-challenges/emojiku#readme",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "colors": "^1.1.2",
+    "dotenv": "^1.2.0",
+    "is-url": "^1.2.1",
+    "node-emoji": "^1.0.4",
+    "ramda": "^0.18.0",
+    "superagent": "^1.5.0",
+    "twitter": "^1.2.5",
+    "yandex-translate-api": "^1.0.1"
+  }
+}
