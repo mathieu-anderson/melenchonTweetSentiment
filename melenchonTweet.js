@@ -1,0 +1,1 @@
+module.exports = { latestTweet : { @BFMTV Sondage twitter ?Macron, dont on parle le plus ?Oui pr le casser ! Rappel : @enmarchefr 35,8 K @JLMelenchon 910K #JLM2017 #Melenchon}, sentiment : { Anaylse émotionnelle : neutral'}}
