@@ -1,5 +1,5 @@
 # melenchonTweetSentiment
-Get the sentiment analysis of the ten last tweets tagged with #melenchon, translated from French to English.
+Use node's console to get the sentiment analysis of the ten last tweets tagged with #melenchon, translated from French to English.
 
 Uses Twitter REST API, Yandex Translate API, and Text Processing Sentiment API.
 
